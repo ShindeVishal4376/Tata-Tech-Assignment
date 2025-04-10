@@ -1,4 +1,4 @@
-package com.vishal.tatatechassignment
+package com.vishal.tatatechassignment.view.activities
 
 
 import android.content.ContentResolver
